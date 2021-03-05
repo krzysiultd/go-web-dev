@@ -1,0 +1,112 @@
+body {
+    background: #333;
+    color: #fff;
+}
+
+.navbar {
+    border-bottom: #008ed6 3px solid;
+    opacity: 0.8;
+}
+
+#home-section {
+    background: url(../img/beverage.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+
+#home-section .dark-overlay {
+    position:absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    min-height: 700px;
+    background: rgba(0,0,0,0.8);
+}
+
+#home-section .home-inner {
+    padding-top: 150px;
+}
+
+#home-section .card-form {
+    opacity: 0.8;
+}
+
+#home-section .fas, #experience-section .fas {
+        color: #008ed6;
+        background: #fff;
+        padding: 5px;
+        border-radius: 5px;
+        margin-top: 10px;
+    }
+
+    #home-section .d-flex, #projects-section .d-flex {
+        margin-bottom: 20px;
+    }
+
+#projects-section .p4 {
+    margin-right: 25px;
+}
+
+#projects-section .fas, #share-section .fas {
+    background: #333;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#experience-section .d-flex {
+    margin-bottom: 20px;
+}
+
+#projects-section {
+    background: url(../img/shipyard.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+}
+
+    #projects-section .dark-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        min-height: 500px;
+        background: rgba(0,0,0,0.8);
+    }
+
+#experience-section {
+    background: url(../img/exp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+}
+
+    #experience-section .dark-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        min-height: 500px;
+        background: rgba(0,0,0,0.8);
+    }
+
+#contact-section {
+    background: url(../img/contact1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 500px;
+}
+
+    #contact-section .dark-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        min-height: 500px;
+        background: rgba(0,0,0,0.8);
+    }
