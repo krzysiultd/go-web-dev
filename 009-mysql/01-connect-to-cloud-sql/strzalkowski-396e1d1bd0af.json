@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "strzalkowski",
+  "private_key_id": "396e1d1bd0af366d6d0b5f222d94e88f87d5000b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDnzZhxUtmKcI/Y\nwoH8cz2ByF6uA7e5ObrGFL/z6s7WWDsOFFkwV/qAILMt0IFLQbud7t+ib4arDCUw\nmtRLpJe8nQ/9Ky9yMwiVZV5+V7TE96+TtB8yj24PbO0LR5X6EcCzTsy9I4IlJ63l\no3nt7Bd9favJJDTth3R+Vnq+5QLIQ9uG0ENO/ALJ7W8/O4HPl7vvKd3n37R42VwF\njq3ADayOj3q56zD3+aqTA3WJf1CCsMJDAQhV6gP12lVvsnaITPd7DRflaJwIYsPj\naIyJ1pVpX5P+UL9BfmQ/bfZ+IS1ZIMl+wkNr+IOng4Sen+n+mcwC00Uvmw1bzcS+\nvV9Tj4bpAgMBAAECggEAETzx1uOWt+aHsVKYVgy/3d89DesgMORr0P/esntGEcc9\nRQkbBNmrZaHeO/b4gSnh6OxzBw0M0mWJ0nkry8rxWckYVPcZhSrputUaAi1FjSxE\n4KgRddzCuN+cf9fn/aZvp9ChWyNr3JV8fMpRGUdoYSBaXmU/O7bKC/x5uP57htGY\nzDAqdPwBURT8hXIDlPA6Fu9kWAZMpBTpSMu+1ansgQ0cyCDrwT4H64IN1i9Ie8mj\nZ6pGyvYJQfAPz2/3+GafNSbkCFOjgIXQp0hpgqc06l2Cv5h3RCrNhiGZGa3hsTfq\nD5eatgx/N3aCxr9Pw3hE1PGCOn0VZQEx1nXsTVRecQKBgQD4nzykDyibN6dfkFii\no+wHTDYSbQeK3eJRIgieWJ2bSPYR2Pn2Va7cpMiVDcnBIqw7VJm9Akdy4P7H1Elh\n5X6HwSQQabwagE1bSdhVi8+4bi/Wfm8iKB7YAyj6wQgOtIZ+9eGrXguxcVc3QIFJ\nZAhFUiHekbTnB3ADKcRhkWM6TQKBgQDurpYpebi0d3ONmmhTDE3161gx1V4SZz/O\n+Hr/EGmz7q/Y+f7x25Nae4eMaOF0h6tX4s/Mnl9ocb5y5aSbhhzqRDoIsoMSLtc9\n/sMkW/XVAIWZRIgmTUiyeor0dTT1BMh7nvlNAuIpZC8FZFAvqg/xd4IMHNLF+PkW\nXIS53NJVDQKBgQDkF0rOBK4vQK7IKKh4hcS7qTqOSwK5bvj7kCqyAwCM/zHpi9M/\nILqs6Gyw+pZXHxU91U66LYYZKbv03ph4PNCJgTMx759H/N97WdMkIIFwZX5z3Ujd\n4ErzyGpnKoLW4t3lSnU//6bgouft47r49tHzrvcttyVtMtCbxkzJalXLnQKBgAJ1\nU+Cbe1aIgG0t8PMiBk+JHABvZSelXpfgIUwtPBl5VOBUOtb83viomw3MKr5Lg21F\nTcSawPrPaRm/2cEsUXHsP/jE9eqjBt6BmDrwo4iNF9MrTIewdhY4guPfrSr04Ke9\nTG4JoJCyknVowharlrxy8aj0Rwt48//R9h//8T6lAoGATFN/siJzPGHCxyw4KZLo\nH4Vrz4s8BHxSzcNedScxBs1PlcoRyzHtPhPCRajQvK1n7CXVvXV/OkOc6YuyDFpE\nybqHd04i539n8zAH4Cm56S1Q1ZHrS1AV3ffTkf8wcAxzVOjebPt5qtJKl1v9gasx\nhwLOdp+qvl0qsNqyo5ddX44=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcloud-mysql@strzalkowski.iam.gserviceaccount.com",
+  "client_id": "109338267093777452808",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcloud-mysql%40strzalkowski.iam.gserviceaccount.com"
+}
